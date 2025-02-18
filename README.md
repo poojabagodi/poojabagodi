@@ -3,7 +3,8 @@ ISE at presidency university<br>full stack web development (MERN)<br>DSA in JAVA
 
 
 ## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/poojabagodi23])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poojabagodi23)
+  
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojabagodi23@gmail.com) 
 
 
